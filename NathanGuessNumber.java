@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class IfElseGuessNumber {
+class NathanGuessNumber {
      public static void main(String[] args) {
           Scanner guess = new Scanner(System.in);
 
