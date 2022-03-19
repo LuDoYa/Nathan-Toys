@@ -1,6 +1,12 @@
 import java.util.Scanner;
 import java.lang.Math;
 
+/**
+     * Code is originally made by            : Nathaniel Takeshi
+     * Editor & Proof-reader                 : Fikri Y. A.
+     * Language Used (for sentencing)        : Indonesian (Bahasa)
+*/
+
 class NathanGuessNumber {
      public static void main(String[] args) {
           Scanner guess = new Scanner(System.in);
